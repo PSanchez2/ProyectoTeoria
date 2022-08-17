@@ -1,6 +1,7 @@
 # ProyectoTeoria
 
 Ejercicio de simulación #2: Gestión de tickets de autobús:
+
 El programa esta basado en una simulacion de gestion de tickets por bus en ciertas zonas de alguna ciudad y podremos observar como se mueve la venta y cuantos tarda cada empelados en atender la venta de tickets por cliente.
 
 Ejercicio en Desarrollo.
