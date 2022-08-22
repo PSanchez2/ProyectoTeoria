@@ -18,6 +18,6 @@ Pasos para correr el programa, se deberan llenar 3 casillas para asi realizar la
 1. Llenar la casilla con la cantidad de empleados por ventanilla.
 2. Llenar la casilla de atencion minima por empleado.
 3. Llenar la casilla de atencion maxima por empleado.
-4. Por ultimo presionamos el boton SIMULAR y ahora podremos ver las graficas correspondientes del simulador. (PARA UNA VER VISUALIZACION DE LAS GRAFICAS AGRANDAR LA INTERFAZ).
+4. Por ultimo presionamos el boton SIMULAR y ahora podremos ver las graficas correspondientes del simulador. (PARA UNA MEJOR VISUALIZACION DE LAS GRAFICAS AGRANDAR LA INTERFAZ).
 
 Y por medio del simulador podremos observar como es el comportamiento de la venta de tickets por bus simplemente llenando la informacion requerida.
