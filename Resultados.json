@@ -1,0 +1,46 @@
+{
+    "Datos_por_dia": [
+        {
+            "Dia": 1,
+            "Longitud promedio de la cola:": 0.1588675416782605,
+            "Tiempo de espera promedio:": 2.167872130437054,
+            "Uso promedio de la instalacion:": 0.5920303186922768
+        },
+        {
+            "Dia": 2,
+            "Longitud promedio de la cola:": 0.2272518609536917,
+            "Tiempo de espera promedio:": 5.905301711775686,
+            "Uso promedio de la instalacion:": 0.9066889926619969
+        },
+        {
+            "Dia": 3,
+            "Longitud promedio de la cola:": 0.3397291409111055,
+            "Tiempo de espera promedio:": 6.204598828684368,
+            "Uso promedio de la instalacion:": 1.351914597334809
+        },
+        {
+            "Dia": 4,
+            "Longitud promedio de la cola:": 0.6316927000185658,
+            "Tiempo de espera promedio:": 11.373027408350094,
+            "Uso promedio de la instalacion:": 1.8514391151271221
+        },
+        {
+            "Dia": 5,
+            "Longitud promedio de la cola:": 0.6810460726550188,
+            "Tiempo de espera promedio:": 16.070612713175674,
+            "Uso promedio de la instalacion:": 2.304580281023692
+        },
+        {
+            "Dia": 6,
+            "Longitud promedio de la cola:": 0.6734111125362835,
+            "Tiempo de espera promedio:": 21.810117253595557,
+            "Uso promedio de la instalacion:": 2.5439215435920106
+        },
+        {
+            "Dia": 7,
+            "Longitud promedio de la cola:": 0.7414296407598037,
+            "Tiempo de espera promedio:": 18.353236771268765,
+            "Uso promedio de la instalacion:": 2.8069008705675014
+        }
+    ]
+}
