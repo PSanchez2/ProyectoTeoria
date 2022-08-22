@@ -4,19 +4,18 @@ Ejercicio de simulación #2: Gestión de tickets de autobús:
 
 El programa esta basado en una simulacion de gestion de tickets por bus en ciertas zonas de alguna ciudad y podremos observar como se mueve la venta y cuantos tarda cada empelados en atender la venta de tickets por cliente.
 
-Ejercicio en Desarrollo.
+Ejercicio completo.
 
 Instalaciones Requeridas: 
 1. Python versión 3.9.10
-2. instalar la dependencia pip install pyqt5-tools
-3. instalar la dependecia pip install pyqt5
+2. Instalar la dependecia con el comando pip install kivy.
 
 
-Pasos para correr el programa, se deberan llenar 3 espacios para asi realizar la simulacion: 
+Pasos para correr el programa, se deberan llenar 3 casillas para asi realizar la simulacion: 
 
-1. Empleados por ventanilla: Aqui iran la cantidad de empleados que estaran atendiendo.
-2. Tiempo de atencion minima: En este apartado sera el tiempo de atencion minima por cliente y debera ser escrito en minutos.
-3. Tiempo de atencion maxima: En este apartado sera el tiempo de atencion maxima por cliente y debera ser escrito en minutos.
-4. Presionar el boton de simular. 
+1. Llenar la casilla con la cantidad de empleados por ventanilla.
+2. 
+3.
+4. Por ultimo presionamos el boton SIMULAR y ahora podremos ver las graficas correspondientes del simulador. (PARA UNA VER VISUALIZACION DE LAS GRAFICAS AGRANDAR LA INTERFAZ).
 
-Ahora podremos observar las graficas de persona promedio por zona, el tiempo de espera por pasajeros y pasajeros por dias, tomando en cuenta que es un promedio dependiendo cada zona.
+Y por medio del simulador podremos observar como es el comportamiento de la venta de tickets por bus simplemente llenando la informacion requerida.
